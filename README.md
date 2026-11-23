@@ -1,4 +1,4 @@
-# Thalawa Divisional Secretariat Division – GIS Map Digitization
+# Thalawa Divisional Secretariat Division & Kaluaggala Grama Niladhari Division – GIS Map Digitization
 
 ## Overview
 
@@ -15,13 +15,19 @@ The project involves converting geographic information represented on a printed 
 - Develop practical skills in GIS data creation, editing, and map visualization.
 
 ## Study Area
-
+**1:
 **Location:** Thalawa Divisional Secretariat Division  
 **District:** Anuradhapura  
 **Province:** North Central Province  
 **Country:** Sri Lanka
 
 The study area is located in the dry zone of Sri Lanka, where agricultural lands, irrigation tanks, road networks, and settlements are important landscape features.
+
+**2:
+**Location:** Kaluaggala Grama Niladhari Division  
+**District:** Colombo 
+**Province:** Western Province  
+**Country:** Sri Lanka
 
 ## Tools & Technologies
 
@@ -67,4 +73,6 @@ This project was undertaken as part of my learning journey in Geographic Informa
 ---
 
 **Author:** Undergraduate in Information and Communication Technology | Software Technology  
-**Project Area:** Thalawa DSD, Anuradhapura, Sri Lanka
+**Project Areas:
+  ** Thalawa DSD, Anuradhapura, Sri Lanka
+  ** Kaluaggala GND, Horana DSD, Colombo, Sri Lanka
